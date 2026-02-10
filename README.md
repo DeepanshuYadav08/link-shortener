@@ -6,18 +6,18 @@ A full-stack MERN application for creating and managing shortened URLs with anal
 ![Node](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4.4+-green)
 
-## ✨ Features
+##  Features
 
-- 🚀 **Lightning Fast** - Create short links instantly
-- 🎨 **Modern UI** - Beautiful glassmorphism design with gradient backgrounds
-- 🔐 **Secure Authentication** - JWT-based user authentication
-- 📊 **Analytics** - Track clicks and monitor link performance
-- 🎯 **Custom Short Codes** - Create branded, memorable links
-- 📱 **Responsive Design** - Works perfectly on all devices
-- ⚡ **Real-time Updates** - Dashboard updates automatically
-- 🌐 **Any URL Support** - Handles complex URLs with multiple parameters
+-  **Lightning Fast** - Create short links instantly
+-  **Modern UI** - Beautiful glassmorphism design with gradient backgrounds
+-  **Secure Authentication** - JWT-based user authentication
+-  **Analytics** - Track clicks and monitor link performance
+-  **Custom Short Codes** - Create branded, memorable links
+- **Responsive Design** - Works perfectly on all devices
+- **Real-time Updates** - Dashboard updates automatically
+-  **Any URL Support** - Handles complex URLs with multiple parameters
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - **Node.js** - Runtime environment
@@ -34,7 +34,7 @@ A full-stack MERN application for creating and managing shortened URLs with anal
 - **Axios** - HTTP client
 - **React Hooks** - State management
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -130,7 +130,7 @@ A full-stack MERN application for creating and managing shortened URLs with anal
 ## 🌍 Deployment
 
 See the complete **Deployment Guide** in the artifacts for step-by-step instructions on:
-- Pushing to GitHub ✅
+- Pushing to GitHub 
 - Getting a free domain (is-a.dev)
 - Deploying backend to Railway
 - Deploying frontend to Vercel
@@ -159,16 +159,16 @@ link-shortener/
 └── README.md
 ```
 
-## 🔐 Security Features
+##  Security Features
 
-- ✅ Password hashing with bcrypt (10 salt rounds)
-- ✅ JWT authentication with secure tokens
-- ✅ Protected API routes
-- ✅ Environment variables for sensitive data
-- ✅ Input validation and sanitization
-- ✅ Duplicate short code prevention
+-  Password hashing with bcrypt (10 salt rounds)
+-  JWT authentication with secure tokens
+-  Protected API routes
+-  Environment variables for sensitive data
+-  Input validation and sanitization
+-  Duplicate short code prevention
 
-## 🎯 Custom Short Codes
+##  Custom Short Codes
 
 Create branded links that are easy to remember:
 
@@ -180,29 +180,28 @@ Rules:
 - Letters, numbers, hyphens, underscores
 - Unique (no duplicates)
 
-## 📊 Analytics
+##  Analytics
 
 Track important metrics for each link:
 - Total clicks
 - Click timestamps
 - Location data (basic implementation)
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
-- [ ] QR code generation
-- [ ] Advanced analytics (geo-location, browser stats)
-- [ ] Link expiration dates
-- [ ] Bulk URL upload
-- [ ] Team collaboration
-- [ ] API rate limiting
-- [ ] Browser extension
+-  QR code generation
+-  Advanced analytics (geo-location, browser stats)
+-  Link expiration dates
+-  Bulk URL upload
+-  Team collaboration
+-  API rate limiting
+-  Browser extension
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-**⭐ Star this repo if you found it helpful!**
 
-Made with ❤️ using MERN Stack
+
