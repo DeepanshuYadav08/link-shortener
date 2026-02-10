@@ -127,7 +127,7 @@ A full-stack MERN application for creating and managing shortened URLs with anal
 - `DELETE /api/url/:id` - Delete URL
 - `GET /:shortCode` - Redirect to original URL
 
-## 🌍 Deployment
+##  Deployment
 
 See the complete **Deployment Guide** in the artifacts for step-by-step instructions on:
 - Pushing to GitHub 
@@ -136,7 +136,7 @@ See the complete **Deployment Guide** in the artifacts for step-by-step instruct
 - Deploying frontend to Vercel
 - Setting up MongoDB Atlas
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 link-shortener/
